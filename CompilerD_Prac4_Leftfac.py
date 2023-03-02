@@ -1,4 +1,4 @@
-print("Name: Lakshay")
+
 print("Enrollment No.: BT20HCS125")
 
 length=50
